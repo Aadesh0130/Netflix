@@ -1,0 +1,111 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo {
+    color: red;
+    font-size: 50px;
+    margin-left: 150px;
+    margin-top: 10px;
+    text-decoration: wavy;
+    cursor: pointer;
+}
+
+.login-box {
+        width: 32%;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 2px 4px black;
+        text-align: center;
+        justify-content: center;
+        background-color: black;
+        opacity: 0.95;
+        font-family: bello-pro-1, bello-pro-2, sans-serif;
+}
+.login-box h1 {
+    color: white;
+    text-align: left;
+    justify-content: left;
+    margin-left: 45px;
+}
+.login-box .email {
+    background-color: black;
+    width: 70%;
+    padding: 20px;
+    color: solid white;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+.login-box .pass {
+    background-color: black;
+    width: 70%;
+    padding: 20px;
+    color: solid white;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+    margin: 20px;
+}
+.login-box .sign1 {
+    background-color: red;
+    width: 80%;
+    padding: 13px;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.login-box .sign {
+    background-color: rgb(54, 54, 54);
+    width: 80%;
+    padding: 13px;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.or {
+    color: white;
+    font-size: 16px;
+}
+.forget{
+    text-decoration: none;
+    color: white;
+    font-size: 17px;
+}
+.check {
+    color: white;
+    text-align: left;
+    justify-content: left;
+    margin-left: 45px;
+    font-size: 17px;
+    cursor: pointer;
+}
+.naman {
+    color: white;
+    text-align: left;
+    padding: 10px;
+    justify-content: left;
+    margin-left: 45px;
+    font-size: 17px;
+    font-weight:10;
+}
+
+.now {
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
+.learn {
+    color: white;
+    text-align: left;
+    justify-content: left;
+    margin-left: 45px;
+}
+.learn a {
+    color: blue;
+    text-decoration: none;
+}
